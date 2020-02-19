@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentityStepByStep", "AspNetIdentityStepByStep.csproj", "{14D572C9-D5DD-4B26-8EA8-E707DD5DEE15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D572C9-D5DD-4B26-8EA8-E707DD5DEE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D572C9-D5DD-4B26-8EA8-E707DD5DEE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D572C9-D5DD-4B26-8EA8-E707DD5DEE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D572C9-D5DD-4B26-8EA8-E707DD5DEE15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F56553C-738F-483D-8BFE-EE28BE455CBA}
+	EndGlobalSection
+EndGlobal
